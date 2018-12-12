@@ -1,3 +1,0 @@
-"He creado un archivo"
-"He añadido la segunda linea"
-"He añadido la tercera linea"
