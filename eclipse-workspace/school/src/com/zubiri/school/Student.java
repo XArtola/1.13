@@ -1,6 +1,6 @@
 package com.zubiri.school;
 
-public class Student {
+public class Student extends Person {
 
 	private String studentID = "";
 	private int absenses = 0;
